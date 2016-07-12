@@ -1,0 +1,8 @@
+{
+    "name": "case-study/promotion",
+    "autoload": {
+        "psr-4": {
+            "Ihsan\\Promotion\\": ""
+        }
+    }
+}
